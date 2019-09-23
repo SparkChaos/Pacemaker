@@ -471,7 +471,7 @@ Now we add the LVs to the pacemaker cluster much like the VG:
 ```
 pcs resource create yournewlv_lv Filesystem device=/dev/yournewvg/lv_yournewlv  directory=/some/path/to/lv/mount fstype=ext4  --group whateveryourclusternameis
 ```
-### Adding a Virtual IP to Pacemaker configuration.
+## Adding a Virtual IP to Pacemaker configuration.
 
 
 Adding a Virtual IP (vIP) is fairly straightforward thanks to Pacemaker.
@@ -516,7 +516,7 @@ Let us also give it a quick clean to make sure things are in order:
 pcs resource cleanup yournewipname1
 ```
 
-### Creating a new Power-fencing resource in Pacemaker
+## Creating a new Power-fencing resource in Pacemaker
 
 
 >   
