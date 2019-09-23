@@ -1,3 +1,6 @@
+### Prerequisites for Pacemaker
+
+
 The following commands should be done on both servers.
 
 Firstly, we have to configure the firewall to not interfere with the setup of pacemaker. To do this, issue the following:

@@ -1,3 +1,5 @@
+### Cluster Setup in Pacemaker
+
 The following commands will need to be done on both servers after you have completed the prerequisites (if you have not, go to:  [Prerequisites for Pacemaker](https://slimwiki.com/milamber/pacemaker-setup)).
 
   

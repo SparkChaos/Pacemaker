@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+## Welcome to Pacemaker Clustering.
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+This document serves as a guide to applying Pacemaker clustering in a Red Hat 7 or CentOS 7 environment.
 
-## Commands
+At the moment, this document is accurate and there is work being carried out at the moment to make a strap script available.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+The strap script will contain customizable options for quick deployment of an HA Pacemaker cluster.
 
-## Project layout
+Other components include STONITH (PF, PP, SBD).
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+For the time being, please refer to the documentation to walkthrough the setup process of Pacemaker.
