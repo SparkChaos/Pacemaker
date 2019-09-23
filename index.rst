@@ -16,7 +16,7 @@ Features
 Contribute
 ------------------
 - Source Code: github.com/SparkChaos/Pacemaker
-
+- Issues Tracker: github.com/SparkChaos/Pacemaker/issues
 Indices and tables
 ==================
 
