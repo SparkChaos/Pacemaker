@@ -7,7 +7,7 @@ nav:
     - Home: index.md
     - Pacemaker Clustering Build:
         - Prerequisites for Pacemaker: pacemaker-build/prerequisites-for-pacemaker.md
-        - Cluster Setup using Pacemaker: pacemaker-build/cluster-setup-using-pacemaker.md
+        - Cluster Setup using Pacemaker: pacemaker-build/cluster-setup-for-pacemaker.md
         - Creating LVM Resources in Pacemaker: pacemaker-build/creating-lvm-resources-in-pacemaker.md
         - Creating a Virtual IP Resource in Pacemaker: pacemaker-build/creating-a-virtual-ip-resource-in-pacemaker.md
         - Creating a new Power-fencing Resource in Pacemaker: pacemaker-build/creating-a-new-power-fencing-resource-in-pacemaker.md
