@@ -1,2 +1,2 @@
-# Pacemaker
-A repository for Pacemaker HA configuration
+# Pacemaker Documentation & Script
+A repository for Pacemaker HA configuration script 
